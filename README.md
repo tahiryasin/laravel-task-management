@@ -6,7 +6,7 @@
 - Vue 3+
 
 ## Installation
-1. Clone repository `git clone git@github.com:tahiryasin/laravel-task-management.git'
+1. Clone repository `git clone git@github.com:tahiryasin/laravel-task-management.git`
 2. Change current directory to project directory
 3. Install composer dependencies: `composer install`
 4. Create .env `cp .env.example .env`
